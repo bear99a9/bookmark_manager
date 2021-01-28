@@ -3,6 +3,8 @@
     "coverage": {
       "/Users/seanedwards/Makers/january/bookmarks/mine/bookmark_manager/spec/bookmark_spec.rb": {
         "lines": [
+          null,
+          null,
           1,
           1,
           null,
@@ -46,6 +48,30 @@
           null,
           1,
           null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
           null,
           null,
           null
@@ -53,6 +79,8 @@
       },
       "/Users/seanedwards/Makers/january/bookmarks/mine/bookmark_manager/spec/database_helpers.rb": {
         "lines": [
+          null,
+          null,
           1,
           null,
           1,
@@ -64,6 +92,8 @@
       },
       "/Users/seanedwards/Makers/january/bookmarks/mine/bookmark_manager/spec/features/creating_bookmarks_spec.rb": {
         "lines": [
+          null,
+          null,
           null,
           null,
           null,
@@ -88,6 +118,8 @@
       },
       "/Users/seanedwards/Makers/january/bookmarks/mine/bookmark_manager/spec/features/deleting_a_bookmark_spec.rb": {
         "lines": [
+          null,
+          null,
           1,
           1,
           1,
@@ -102,8 +134,34 @@
           null
         ]
       },
+      "/Users/seanedwards/Makers/january/bookmarks/mine/bookmark_manager/spec/features/updating_a_bookmark_spec.rb": {
+        "lines": [
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
       "/Users/seanedwards/Makers/january/bookmarks/mine/bookmark_manager/spec/features/viewing_bookmarks_spec.rb": {
         "lines": [
+          null,
+          null,
           1,
           1,
           1,
@@ -127,6 +185,6 @@
         ]
       }
     },
-    "timestamp": 1611862998
+    "timestamp": 1611864766
   }
 }
