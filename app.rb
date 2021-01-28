@@ -1,7 +1,10 @@
+# frozen_string_literal: true
+
 require 'sinatra/base'
 require './lib/bookmark'
 
 class BookmarkManager < Sinatra::Base
+  enable :method_override
 
   get '/' do
     'Bookmark Manager'
@@ -21,5 +24,10 @@ class BookmarkManager < Sinatra::Base
     redirect '/bookmarks'
   end
 
-  run! if app_file == $0
+  delete '/bookmarks/:id' do
+    Bookmark.delete(id: params[:id])
+    redirect '/bookmarks'
+  end
+
+  run! if app_file == $PROGRAM_NAME
 end

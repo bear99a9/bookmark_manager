@@ -37,6 +37,17 @@
           1,
           null,
           null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
           null
         ]
       },
@@ -75,6 +86,22 @@
           null
         ]
       },
+      "/Users/seanedwards/Makers/january/bookmarks/mine/bookmark_manager/spec/features/deleting_a_bookmark_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
       "/Users/seanedwards/Makers/january/bookmarks/mine/bookmark_manager/spec/features/viewing_bookmarks_spec.rb": {
         "lines": [
           1,
@@ -100,6 +127,6 @@
         ]
       }
     },
-    "timestamp": 1611830749
+    "timestamp": 1611862998
   }
 }

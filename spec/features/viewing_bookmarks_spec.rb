@@ -1,14 +1,16 @@
+# frozen_string_literal: true
+
 feature 'view bookmarks' do
   scenario 'visit the index page' do
     visit('/')
-    expect(page).to have_content "Bookmark Manager"
+    expect(page).to have_content 'Bookmark Manager'
   end
 
   feature 'viewing bookmarks' do
     scenario 'bookmarks are visible' do
-      Bookmark.create(url: "http://www.makersacademy.com", title: "Makers Academy")
-      Bookmark.create(url: "http://www.destroyallsoftware.com", title: "Destroy All Software")
-      Bookmark.create(url: "http://www.google.com", title: "Google")
+      Bookmark.create(url: 'http://www.makersacademy.com', title: 'Makers Academy')
+      Bookmark.create(url: 'http://www.destroyallsoftware.com', title: 'Destroy All Software')
+      Bookmark.create(url: 'http://www.google.com', title: 'Google')
 
       visit '/bookmarks'
 

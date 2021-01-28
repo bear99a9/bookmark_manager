@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # old feature test for bookmarks/new refactored below to all be done on index.erb
 # feature 'Adding a new bookmark' do
 #   scenario 'A user can add a bookmark to Bookmark Manager' do
