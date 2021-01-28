@@ -1,4 +1,4 @@
-# old feature test for bookmarks/new refactored below to all be done on index.erb 
+# old feature test for bookmarks/new refactored below to all be done on index.erb
 # feature 'Adding a new bookmark' do
 #   scenario 'A user can add a bookmark to Bookmark Manager' do
 #     visit('/bookmarks/new')
@@ -12,7 +12,9 @@ feature 'Adding a new bookmark' do
   scenario 'A user can add a bookmark to Bookmark Manager' do
     visit('/bookmarks')
     fill_in('url', with: 'http://www.msn.com')
+    fill_in('title', with: 'msn')
     click_button('Save')
-    expect(page).to have_content 'http://www.msn.com'
+
+    expect(page).to have_link('msn', href: 'http://www.msn.com')
   end
 end
