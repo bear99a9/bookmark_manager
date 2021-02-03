@@ -1,7 +1,7 @@
 # BOOKMARK MANAGER
 
 ## User stories
-<<<<<<< HEAD
+
 =======
 
 
