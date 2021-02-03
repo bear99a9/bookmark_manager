@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/seanedwards/Makers/january/bookmarks/mine/bookmark_manager/spec/bookmark_spec.rb": {
+      "/Users/seanedwards/Makers/january/all_bookmarks/mine/bookmark_manager/spec/bookmark_spec.rb": {
         "lines": [
           null,
           null,
@@ -34,7 +34,7 @@
           1,
           null,
           1,
-          1,
+          null,
           1,
           1,
           null,
@@ -71,6 +71,71 @@
           1,
           1,
           null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          2,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/seanedwards/Makers/january/all_bookmarks/mine/bookmark_manager/spec/database_helpers.rb": {
+        "lines": [
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          3,
+          null
+        ]
+      },
+      "/Users/seanedwards/Makers/january/all_bookmarks/mine/bookmark_manager/spec/comment_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
           1,
           null,
           1,
@@ -82,76 +147,81 @@
           null
         ]
       },
-      "/Users/seanedwards/Makers/january/bookmarks/mine/bookmark_manager/spec/database_helpers.rb": {
+      "/Users/seanedwards/Makers/january/all_bookmarks/mine/bookmark_manager/spec/features/adding_and_viewing_comments_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/seanedwards/Makers/january/all_bookmarks/mine/bookmark_manager/spec/features/creating_bookmarks_spec.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/seanedwards/Makers/january/all_bookmarks/mine/bookmark_manager/spec/features/deleting_a_bookmark_spec.rb": {
         "lines": [
           null,
           null,
           1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
           null,
           1,
           1,
-          1,
-          1,
+          null,
           null
         ]
       },
-      "/Users/seanedwards/Makers/january/bookmarks/mine/bookmark_manager/spec/features/creating_bookmarks_spec.rb": {
+      "/Users/seanedwards/Makers/january/all_bookmarks/mine/bookmark_manager/spec/features/updating_a_bookmark_spec.rb": {
         "lines": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          1,
-          1,
-          1,
-          1,
-          1,
-          1,
-          null,
-          1,
-          null,
-          null,
-          1,
-          1,
-          1,
-          1,
-          null,
-          1,
-          1,
-          null,
-          null
-        ]
-      },
-      "/Users/seanedwards/Makers/january/bookmarks/mine/bookmark_manager/spec/features/deleting_a_bookmark_spec.rb": {
-        "lines": [
-          null,
-          null,
-          1,
-          1,
-          1,
-          1,
-          1,
-          null,
-          1,
-          null,
-          1,
-          1,
-          null,
-          null
-        ]
-      },
-      "/Users/seanedwards/Makers/january/bookmarks/mine/bookmark_manager/spec/features/updating_a_bookmark_spec.rb": {
-        "lines": [
-          null,
-          null,
           1,
           1,
           1,
@@ -172,7 +242,7 @@
           null
         ]
       },
-      "/Users/seanedwards/Makers/january/bookmarks/mine/bookmark_manager/spec/features/viewing_bookmarks_spec.rb": {
+      "/Users/seanedwards/Makers/january/all_bookmarks/mine/bookmark_manager/spec/features/viewing_bookmarks_spec.rb": {
         "lines": [
           null,
           null,
@@ -199,6 +269,6 @@
         ]
       }
     },
-    "timestamp": 1611912213
+    "timestamp": 1612392929
   }
 }
